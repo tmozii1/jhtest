@@ -10,6 +10,7 @@
 4. git remote
 5. git remove
 
-## 브런치
+## branch
 
-1. 마스터 : 여기임
+- master
+- dev
